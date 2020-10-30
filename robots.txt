@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /로고.png
+Disallow: /20160816_110048.jpg
